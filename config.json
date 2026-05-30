@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachedync",
+        "uuid": 11754320,
+        "checksum": "rs9ynz"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
